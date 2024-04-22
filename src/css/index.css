@@ -56,6 +56,14 @@ p {
     font-size: 3rem;
 }
 
+p b{
+   background-color: #f1faff;
+   padding: 5px;
+   border-radius: 4px; 
+   border: 1px solid #f1faff;
+   
+}
+
 .prev-btn,.view-more {
     background-color: #f1faff;
     color: #1d1825;
